@@ -1,3 +1,4 @@
+![logo](https://github.com/Fadlilliwa/README/blob/main/mOBIL.gif?raw=true)
 <h1 align="center">Hai Kenalin, Fadlil Liwa</h1>
 <h3 align="center">Mahasiswa Teknik Informatika</h3>
 
