@@ -2,6 +2,8 @@
 <h1 align="center">Hai Kenalin, Fadlil Liwa</h1>
 <h3 align="center">Mahasiswa Teknik Informatika</h3>
 
+<img align="right" alt="coding" width="400" src="https://github.com/Fadlilliwa/README/blob/main/GamePad.gif?raw=true">
+
 - 🌍Front End Web🌍 **SES,E-Commerce**
 
 - 🌟UI/UX🌟 **E-Commerce,SES, Desktop**
